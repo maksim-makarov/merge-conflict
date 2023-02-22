@@ -19,4 +19,8 @@ export class TestComponent implements OnInit {
   someFunction2(){
     console.log('Надо оставить')
   }
+
+  someFunction3(){
+    console.log('Надо оставить')
+  }
 }
