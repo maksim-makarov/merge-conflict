@@ -12,6 +12,10 @@ export class TestComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  someFunction6(){
+    console.log('Надо убрать')
+  }
+
   someFunction1(){
     console.log('Надо оставить')
   }
